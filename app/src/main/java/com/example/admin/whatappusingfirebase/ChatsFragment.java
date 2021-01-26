@@ -10,6 +10,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
@@ -95,12 +96,15 @@ public class ChatsFragment extends Fragment {
                                         String date = dataSnapshot.child("userState").child("date").getValue().toString();
                                         String time = dataSnapshot.child("userState").child("time").getValue().toString();
                                         if (state.equals("online")) {
-                                            holder.userStatus.setText("Online");
+                                            holder.userStatus.setText("online");
+                                            holder.onlineIcon.setVisibility(View.VISIBLE);
                                         } else if (state.equals("offline")) {
                                             holder.userStatus.setText("Last Seen: " + date + " " + time);
+                                            holder.onlineIcon.setVisibility(View.INVISIBLE);
                                         }
                                     } else {
                                         holder.userStatus.setText("offline");
+                                        holder.onlineIcon.setVisibility(View.INVISIBLE);
                                     }
 
                                     holder.itemView.setOnClickListener(new View.OnClickListener() {
@@ -143,13 +147,14 @@ public class ChatsFragment extends Fragment {
     public static class ChatsViewHolder extends RecyclerView.ViewHolder {
         CircleImageView profileImage;
         TextView userStatus, userName;
+        ImageView onlineIcon;
 
         public ChatsViewHolder(View itemView) {
             super(itemView);
-
             profileImage = itemView.findViewById(R.id.users_profile_image);
             userStatus = itemView.findViewById(R.id.user_status);
             userName = itemView.findViewById(R.id.user_profile_name);
+            onlineIcon = itemView.findViewById(R.id.user_online_status);
         }
     }
 }
