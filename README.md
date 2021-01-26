@@ -19,6 +19,8 @@
    1. [Thêm hình ảnh và tài liệu khi chat](#thêm-hình-ảnh-và-tài-liệu-khi-chat)
 
    1. [Rút lại tin nhắn](#rút-lại-tin-nhắn)
+   
+   1. [Trạng thái hoạt động của bạn bè](#trạng-thái-hoạt-động-của-bạn-bè)
 
 1. [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 
