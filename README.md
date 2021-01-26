@@ -33,15 +33,16 @@
    <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/sign-up.png" height = "480" width="270">
    </p>
 ### Quản lí tài khoản
+
    * Thay đổi trạng thái
    
-    <p align="center">
+   <p align="center">
    <img src="screenshots/status.png" height = "480" width="270">
    </p>
 
 ### Tìm kiếm người dùng khác
    
-    <p align="center">
+  <p align="center">
    <img src="screenshots/find.png" height = "480" width="270">
    </p>
 
@@ -63,7 +64,7 @@
 ### Thêm hình ảnh và tài liệu khi chat
 
   <p align="center">
-   <img src="screenshots/image.png" height = "480" width="270"> <img src="screenshots/pdf.png" height = "480" width="270">
+   <img src="screenshots/add-file.png" height = "480" width="270"> <img src="screenshots/image.png" height = "480" width="270"> <img src="screenshots/pdf.png" height = "480" width="270">
    </p>
 ### Rút lại tin nhắn
 
