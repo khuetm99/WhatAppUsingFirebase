@@ -32,7 +32,7 @@
 ### Đăng nhập / Đăng kí
 
   <p align="center">
-   <img src="screenshots/login.png" height = "480" width="270"> src="screenshots/sign-up.png" height = "480" width="270">
+   <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/sign-up.png" height = "480" width="270">
    </p>
    
 ### Quản lí tài khoản
@@ -40,7 +40,7 @@
    * Thay đổi trạng thái
    
    <p align="center">
-   <img src="screenshots/status.png" height = "480" width="270"> src="screenshots/image-profile.png" height = "480" width="270">
+   <img src="screenshots/status.png" height = "480" width="270"> <img src="screenshots/image-profile.png" height = "480" width="270">
    </p>
 
 ### Tìm kiếm người dùng khác
