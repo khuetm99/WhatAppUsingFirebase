@@ -46,7 +46,7 @@
    <img src="screenshots/find.png" height = "480" width="270">
    </p>
 
-### Thêm bạn bè và nhắn tin với người dùng
+### Thêm bạn bè và nhắn tin với người dùng 
 
   <p align="center">
    <img src="screenshots/add-friend.png" height = "480" width="270"> <img src="screenshots/send-request.png" height = "480" width="270">
