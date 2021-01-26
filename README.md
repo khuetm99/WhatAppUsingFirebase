@@ -32,7 +32,7 @@
 ### Đăng nhập / Đăng kí
 
   <p align="center">
-   <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/sign-up.png" height = "480" width="270">
+   <img src="screenshots/login.png" height = "480" width="270"> src="screenshots/sign-up.png" height = "480" width="270">
    </p>
    
 ### Quản lí tài khoản
