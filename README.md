@@ -32,6 +32,7 @@
   <p align="center">
    <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/sign-up.png" height = "480" width="270">
    </p>
+   
 ### Quản lí tài khoản
 
    * Thay đổi trạng thái
@@ -51,26 +52,31 @@
   <p align="center">
    <img src="screenshots/add-friend.png" height = "480" width="270"> <img src="screenshots/send-request.png" height = "480" width="270">
    </p>
+   
 ### Tạo group chat kết nối với mọi người dùng app
 
   <p align="center">
    <img src="screenshots/group.png" height = "480" width="270"> <img src="screenshots/add-group.png" height = "480" width="270"> <img src="screenshots/chat-group.png" height = "480" width="270">
    </p>
+   
 ### Chat với bạn bè
 
   <p align="center">
    <img src="screenshots/chat.png" height = "480" width="270">
    </p>
+   
 ### Thêm hình ảnh và tài liệu khi chat
 
   <p align="center">
    <img src="screenshots/add-file.png" height = "480" width="270"> <img src="screenshots/image.png" height = "480" width="270"> <img src="screenshots/pdf.png" height = "480" width="270">
    </p>
+   
 ### Rút lại tin nhắn
 
   <p align="center">
    <img src="screenshots/delete.png" height = "480" width="270">
    </p>
+   
 ## Yêu cầu thiết bị
 
    +Android studio : 4.1
