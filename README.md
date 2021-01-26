@@ -78,6 +78,13 @@
   <p align="center">
    <img src="screenshots/delete.png" height = "480" width="270">
    </p>
+
+### Trạng thái hoạt động của bạn bè
+
+  <p align="center">
+   <img src="screenshots/online1.png" height = "480" width="270"> <img src="screenshots/online2.png" height = "480" width="270">
+   </p>
+
    
 ## Yêu cầu thiết bị
 
