@@ -64,7 +64,7 @@
 ### Chat với bạn bè
 
   <p align="center">
-   <img src="screenshots/chat.png" height = "480" width="270">
+   <img src="screenshots/chat1.png" height = "480" width="270">
    </p>
    
 ### Thêm hình ảnh và tài liệu khi chat
