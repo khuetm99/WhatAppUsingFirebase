@@ -12,7 +12,8 @@
         android:layout_height="45dp"
         android:layout_gravity="center"
         android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
+        android:layout_marginRight="2dp"
+        android:paddingRight="5dp"
         android:src="@drawable/profile_image" />
 
     <FrameLayout
@@ -40,7 +41,7 @@
             android:layout_height="150dp"
             android:layout_gravity="right"
             android:layout_marginTop="10dp"
-            android:layout_marginRight="30dp"
+            android:layout_marginRight="15dp"
             android:scaleType="centerCrop" />
 
         <ImageView
@@ -56,7 +57,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
-            android:layout_marginRight="30dp"
+            android:layout_marginRight="15dp"
             android:background="@drawable/sender_messages_layout"
             android:padding="10dp"
             android:text="sender message"
